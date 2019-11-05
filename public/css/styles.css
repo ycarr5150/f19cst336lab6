@@ -38,3 +38,25 @@ li:last-child {
 #text {
     font-size: 18px;
 }
+
+#planet-information {
+    background-color: #CED3E4;
+    font-size: 18px;
+    border-radius: 20px;
+    padding: 10px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+img {
+    border-radius: 10px;
+}
+
+.flex-container {
+    display: flex;
+}
+
+.flex-container>div {
+    margin: 10px;
+    padding: 20px;
+}
